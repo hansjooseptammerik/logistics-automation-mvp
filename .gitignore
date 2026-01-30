@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit
+.streamlit/
+
+# Virtualenv (if any)
+venv/
+.venv/
+
+# Local data / exports (do not commit)
+Logistic/
+data/
+orders/
+exports/
+
+# Databases
+*.sqlite
+*.db
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

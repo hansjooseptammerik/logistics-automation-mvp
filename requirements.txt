@@ -1,0 +1,2 @@
+streamlit==1.39.0
+pypdf==4.3.1
